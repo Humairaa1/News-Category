@@ -52,3 +52,4 @@ const handleLoadNews =async (categoryID) =>{
     }); 
 }
 handleCategory();
+handleLoadNews("01");
